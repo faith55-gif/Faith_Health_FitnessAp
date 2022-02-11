@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Faith_Health_FitnessAp</string>
-    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps">Fitness Tracker</string>
     <string name="default_text" />
 </resources>
